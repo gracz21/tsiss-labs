@@ -1,0 +1,6 @@
+@prefix tsiss <http://semantic.cs.put.poznan.pl/dokuwiki/>
+@prefix rdf <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+tsiss:Produkt a _:bnode1 .
+_:bnode1 tsiss:maLokalizację Kotlin .
+_:bnode1 a tsiss:Sos_pomidorowy .
